@@ -1,7 +1,7 @@
 /**
  * Advance Fire Alarm System Using Arduino Uno
  * v1.0.0
- * developed by: marcb
+ * developed by: mr.beans 
 */
 
 #include <Arduino.h>
