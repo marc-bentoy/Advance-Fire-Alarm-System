@@ -146,7 +146,7 @@ void stopCall() {
   isCalling = false;
 
   // writes the action to serial monitor
-  Serial.println("---[Call Alarm Ended on: " + DEV_NUM + "]---");
+  Serial.println("---[Call Alarm Ended]---");
 }
 
 void writeSerialData() {
